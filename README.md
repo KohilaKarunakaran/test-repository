@@ -16,3 +16,5 @@ lets see(it doesn't work)
 This is **bold**
 
 This is __bold__
+
+**This is bold**
