@@ -24,3 +24,7 @@ This is _italic_
 This is *italic*
 
 *This is italic*
+
+***This is really important***
+
+This is ***really*** important
