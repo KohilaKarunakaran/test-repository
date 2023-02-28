@@ -28,3 +28,13 @@ This is *italic*
 ***This is really important***
 
 This is ***really*** important
+
+1.one
+2.two
+3.three
+4.four
+
+-one
+-two
+-three
+-four
