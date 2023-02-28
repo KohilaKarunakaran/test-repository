@@ -12,3 +12,7 @@ I am going to seperate this to another paragraph.
 
 I am gonna use break.              return
 lets see(it doesn't work)
+
+This is **bold**
+
+This is --bold--
