@@ -27,18 +27,18 @@ This is *italic*
 
 This is ***really*** important
 
-1.one
+1 . one
 
-2.two
+2. two
 
-3.three
+3. three
 
-4.four
+4. four
 
--one
+- one
 
--two
+- two
 
--three
+- three
 
--four
+- four
