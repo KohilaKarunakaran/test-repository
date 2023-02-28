@@ -5,6 +5,4 @@ THIS IS HEADING level1
 ========
 This is heading level2
 ------
-This is a paragraph. 
-
-I am going to seperate this to another paragraph.
+This is a paragraph. I am going to seperate this to another paragraph.
