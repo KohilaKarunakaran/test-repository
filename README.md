@@ -1,5 +1,7 @@
 # Kohilan testi
 ## Tämä testi tehdään tunnilla Githubissa.
 ##### Editoimme tässä README-tiedostoa ja katsomme mitä tapahtuu.
-THIS IS HEADING
+THIS IS HEADING level1
 ========
+This is heading level2
+------
