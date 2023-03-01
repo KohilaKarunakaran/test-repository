@@ -43,9 +43,10 @@ This is ***really*** important
 
 - four
 
-This is a image of bird using link [BIRD](https://th.bing.com/th/id/R.00d06daad137141c6e44f55cd67e6a84?rik=kSj6NrybAOc9cQ&pid=ImgRaw&r=0).
+This is a image of bird using link [BIRD](https://th.bing.com/th/id/R.00d06daad137141c6e44f55cd67e6a84?rik=kSj6NrybAOc9cQ&pid=ImgRaw&r=0). Some more text.
 
 <https://www.markdownguide.org>
+
 <fake@example.com>
 
 ![Here i attached an image!] (https://i.pinimg.com/736x/04/20/92/042092438f621aea7c39f6b26d866b48--parrots-parakeets.jpg)
